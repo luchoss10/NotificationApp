@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotificationApp</string>
+    <string name="tittle_notification">Notification Tittle</string>
+    <string name="message_notification">Notification Message</string>
+    <string name="switch_notification_on">High</string>
+    <string name="switch_notification_off">Low</string>
+    <string name="btn_notifcation">Send Notification</string>
+
+</resources>
